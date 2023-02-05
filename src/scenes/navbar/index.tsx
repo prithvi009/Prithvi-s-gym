@@ -29,7 +29,8 @@ const Navbar = ({ selectedPage, setSelectedPage, isTopOfPage }: Props) => {
                 {/*contains navbar and other elements*/}
                 <div className={`${flexBetween} w-full gap-16 py-6`}>
                     {/*Left Side of navbar => contains logo */}
-                    <img src={Logo} alt="Logo" />
+                    {/* <img src={Logo} alt="Logo" /> */}
+                    <h3 className='bold mx-auto font-extrabold'>PRITHVI'S GYM</h3>
                     {/*Right Side of navbar => contains links */}
 
                     { isAboveMediumScreens ? (
