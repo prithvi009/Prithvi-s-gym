@@ -14,32 +14,32 @@ import Class from './Class';
 const classes: Array<ClassType>=[
     {
         name: 'Yoga',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti corrupti ea voluptatibus hic atque, sequi earum maiores error autem obcaecati eveniet suscipit, minima quam reiciendis tempore. A magni nostrum dolorum?',
+        description: 'Our team of certified trainers is dedicated to helping you achieve your fitness objectives. From personalized workout plans to nutritional guidance.',
         image: image1
     },
     {
         name: 'Weight training',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti corrupti ea voluptatibus hic atque, sequi earum maiores error autem obcaecati eveniet suscipit, minima quam reiciendis tempore. A magni nostrum dolorum?',
+        description: 'Our team of certified trainers is dedicated to helping you achieve your fitness objectives. From personalized workout plans to nutritional guidance.',
         image: image2
     },
     {
         name: 'Yoga',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti corrupti ea voluptatibus hic atque, sequi earum maiores error autem obcaecati eveniet suscipit, minima quam reiciendis tempore. A magni nostrum dolorum?',
+        description: 'Our team of certified trainers is dedicated to helping you achieve your fitness objectives. From personalized workout plans to nutritional guidance.',
         image: image3
     },
     {
         name: 'Yoga',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti corrupti ea voluptatibus hic atque, sequi earum maiores error autem obcaecati eveniet suscipit, minima quam reiciendis tempore. A magni nostrum dolorum?',
+        description: 'Our team of certified trainers is dedicated to helping you achieve your fitness objectives. From personalized workout plans to nutritional guidance.',
         image: image4
     },
     {
         name: 'Beatifull perfect body',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti corrupti ea voluptatibus hic atque, sequi earum maiores error autem obcaecati eveniet suscipit, minima quam reiciendis tempore. A magni nostrum dolorum?',
+        description: 'Our team of certified trainers is dedicated to helping you achieve your fitness objectives. From personalized workout plans to nutritional guidance.',
         image: image5
     },
     {
         name: 'core Classes',
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti corrupti ea voluptatibus hic atque, sequi earum maiores error autem obcaecati eveniet suscipit, minima quam reiciendis tempore. A magni nostrum dolorum?',
+        description: 'Our team of certified trainers is dedicated to helping you achieve your fitness objectives. From personalized workout plans to nutritional guidance.',
         image: image6
     },
 
@@ -69,7 +69,7 @@ const OurClasses = ({setSelectedPage}: Props) => {
             >
                 <div className='md:w-3/5  '>
                     <HText>OUR CLASSES</HText>
-                    <p className='py-5 '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti corrupti ea voluptatibus hic atque, sequi earum maiores error autem obcaecati eveniet suscipit, minima quam reiciendis tempore. A magni nostrum dolorum?</p>
+                    <p className='py-5 '>Our team of certified trainers is dedicated to helping you achieve your fitness objectives. From personalized workout plans to nutritional guidance, we're here to support you every step of the way. Whether you're looking to lose weight, build muscle, improve flexibility, or enhance overall wellness, our knowledgeable staff will provide the expertise and encouragement you need to succeed.</p>
                 </div>
 
             </motion.div>
