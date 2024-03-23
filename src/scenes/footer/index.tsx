@@ -11,7 +11,7 @@ const Footer = () => {
             purus et arcu massa dictum condimentum. Augue scelerisque iaculis
             orci ut habitant laoreet. Iaculis tristique.
           </p>
-          <p>© Evogym All Rights Reserved.</p>
+          <p>© Prithvi's GYM All Rights Reserved.</p>
         </div>
         <div className="mt-16 basis-1/4 md:mt-0">
           <h4 className="font-bold">Links</h4>
@@ -21,8 +21,8 @@ const Footer = () => {
         </div>
         <div className="mt-16 basis-1/4 md:mt-0">
           <h4 className="font-bold">Contact Us</h4>
-          <p className="my-5">Tempus metus mattis risus volutpat egestas.</p>
-          <p>(333)425-6825</p>
+          <p className="my-5">sector 57, Noida, UP</p>
+          <p>(91) 988707</p>
         </div>
       </div>
     </footer>
