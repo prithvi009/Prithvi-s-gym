@@ -1,7 +1,6 @@
 import React from 'react'
 import useMediaQuery from '@/hooks/useMediaQuery'
 import ActionButton from '@/shared/ActionButton'
-import HomePageText from '@/assets/HomePageText.png'
 import { SelectedPage } from '@/shared/types'
 import HomePageGraphic from '@/assets/HomePageGraphic.png'
 import SponsorRedBull from '@/assets/SponsorRedBull.png'
@@ -43,12 +42,10 @@ const Home = ({setSelectedPage}: Props) => {
                 >
                     <div className='relative'>
                         <div className='before:absolute before:-top-20 before:-left-20 before:z-[-1] md:before:content-evolvetext'>
-                            <img src={HomePageText} alt="home-page-text" />
+                            <p className='text-gray-500 font-extrabold text-5xl'>PRITHVI'S GYM</p>
                         </div>
                     </div>
-                    <p className='mt-8 text-sm '>unrivaled gym , Unparalled traning fitness Center ......
-                        studios pritksajdhsjd fsdjkfsdkjfhaksdj hfksdnfkjsa
-                        sdfhasdkjfhsdhf;sfas;fhkhasd
+                    <p className='mt-8 text-sm '>we're not just about fitness; we're about forging a community, transforming lives, and empowering individuals to reach their full potential. Located in the heart of Noida, our state-of-the-art facility is designed to inspire and motivate you every step of the way on your fitness journey.
                     </p>
                 </motion.div>
                 {/* Action Button */}
