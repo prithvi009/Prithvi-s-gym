@@ -11,17 +11,17 @@ const benefits: Array<BenefitType> =[
   {
     icon: <HomeModernIcon className='h-6 w-6 '/>,
     title: "State of the art Facilities",
-    description: "lorem adlkfnasdlf asdlkjfsda f;la dfsdjkf dslkjfsdf sdlkjfsdfjf",
+    description: "It is a world class Gym with world class Trainers",
   },
   {
     icon: <UserGroupIcon className='h-6 w-6 '/>,
-    title: "State of the art Facilities",
-    description: "lorem adlkfnasdlf asdlkjfsda f;la dfsdjkf dslkjfsdf sdlkjfsdfjf",
+    title: "Online Training Sessions",
+    description: "Customers can book an online session with the gym trainer",
   },
   {
     icon: <AcademicCapIcon className='h-6 w-6 '/>,
-    title: "State of the art Facilities",
-    description: "lorem adlkfnasdlf asdlkjfsda f;la dfsdjkf dslkjfsdf sdlkjfsdfjf",
+    title: "Yoga and Much More",
+    description: "other Than weight lifting we offer a variety of other features",
   },
 ];
 
@@ -124,10 +124,10 @@ const Benfits = ({setSelectedPage}: Props) => {
                 
                 >
                   <p className='my-5'>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, eaque adipisci? Repellat accusamus eaque assumenda maiores eveniet omnis, laborum corrupti, officia eos cum ullam. Perspiciatis eius quasi distinctio nesciunt beatae!
+                  Choose from a range of flexible membership options designed to fit your lifestyle and budget. Whether you prefer a month-to-month plan, a discounted annual membership, or a customized package with additional perks, we have a membership option that's right for you.
 
                   </p>
-                  <p className='mb-5'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi suscipit odit temporibus obcaecati porro nulla iste fugit veniam, distinctio inventore error? Aliquid, aspernatur repellat similique ad commodi, quis nemo nulla magni impedit, reiciendis mollitia!</p>
+                  <p>Experience the energy and camaraderie of our dynamic group fitness classes. Led by passionate instructors, our diverse class offerings cater to a variety of interests and fitness levels. From high-intensity interval training (HIIT) and yoga to spin and dance-based workouts, there's a class to ignite your enthusiasm and keep you motivated.</p>
 
 
                 </motion.div>

@@ -41,8 +41,7 @@ const ContactUs = ({setSelectedPage}: Props) => {
                     Join Now
                 </HText> TO GE IN SHAPE
                 <p className='my-5'>
-                    lorem adlkfnasdlf asdlkjfsda f;la dfsdjkf dslkjfsdf sdlkjfsdfjf
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur nihil nam eos doloribus et tempore cumque illo labore vero dolore soluta itaque, suscipit repellat reprehenderit rem magni inventore officia nemo!
+                Thank you for your interest in Prithvi's Gym! We're here to assist you with any questions, feedback, or inquiries you may have. Please feel free to reach out to us using the contact information below, and we'll get back to you as soon as possible.
                 </p>
             </motion.div>
 
